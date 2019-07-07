@@ -11,4 +11,5 @@ move(board, 0, "O")
 move(board, 1, "X")
 
 display_board(board)
+
 turn(board)
